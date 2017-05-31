@@ -46,4 +46,4 @@ $ hand T9!
   Quality of hand is 86.98%
 ```
 
-:thumbs_up:
+glhf!
