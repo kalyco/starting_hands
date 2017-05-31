@@ -3,8 +3,10 @@
 
 ### Adding folder:
 
-Add this folder to any local directory. You can do so by git cloning within that directory, 
+Add this folder (starting_hands) to any local directory. You can do so by git cloning within that directory, 
 or just creating one manually and copying the file content over.
+
+If you do it manually be sure to name your files appropriately (you only need `hand.py` and `hands.py`)
 
 Be sure to check that you have python installed. You can download it [here](https://www.python.org/downloads/)
 
