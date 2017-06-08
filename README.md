@@ -1,5 +1,5 @@
 # Starting Hands
-## A Quick way to check the score of your hand
+## A quick way to check the score of your hand
 
 ### Adding folder:
 
